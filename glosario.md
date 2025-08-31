@@ -23,7 +23,7 @@ Protocolo de Adaptación y Conocimiento en siete pasos para la adopción discipl
 
 ---
 
-## Conceptos de la industria (fusión inspirada en Microsoft, Anthropic, OpenAI, Google, AWS, Coursera, Stanford)
+## Conceptos de la industria
 
 ### IA Ética Colaborativa
 Principios y prácticas para desarrollar IA de forma responsable y transparente, con enfoque en mitigación de sesgos, seguridad y revisión entre pares.
